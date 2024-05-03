@@ -1,0 +1,980 @@
+Topic Index,Item Index,Example
+0,0,Lion
+0,1,Giraffe
+0,2,Monkey
+0,3,Penguin
+0,4,Butterfly
+0,5,Kangaroo
+0,6,Tiger
+0,7,Frog
+0,8,Horse
+0,9,Raccoon
+1,0,Rose
+1,1,Sunflower
+1,2,Lavender
+1,3,Eucalyptus
+1,4,Pineapple
+1,5,Sage
+1,6,Orchid
+1,7,Cilantro
+1,8,Bamboo
+1,9,Thyme
+2,0,Apple
+2,1,Banana
+2,2,Mango
+2,3,Orange
+2,4,Grape
+2,5,Pear
+2,6,Peach
+2,7,Kiwi
+2,8,Strawberry
+2,9,Blueberry
+3,0,Broccoli
+3,1,Carrots
+3,2,Spinach
+3,3,Peas
+3,4,Cauliflower
+3,5,Kale
+3,6,Mushrooms
+3,7,Beets
+3,8,Zucchini
+3,9,Asparagus
+4,0,Robin
+4,1,Blue Jay
+4,2,House Sparrow
+4,3,American Crow
+4,4,Northern Cardinal
+4,5,Mourning Dove
+4,6,Downy Woodpecker
+4,7,Red-winged Blackbird
+4,8,Tufted Titmouse
+4,9,Chickadee
+5,0,Tuna
+5,1,Salmon
+5,2,Cod
+5,3,Swordfish
+5,4,Trout
+5,5,Mahi-mahi
+5,6,Grouper
+5,7,Snapper
+5,8,Halibut
+5,9,Barramundi
+6,0,Oak Tree
+6,1,Palm Tree
+6,2,Willow Tree
+6,3,Cedar Tree
+6,4,Maple Tree
+6,5,Ficus Tree
+6,6,Mango Tree
+6,7,Birch Tree
+6,8,Sycamore Tree
+6,9,Pine Tree
+7,0,Rose
+7,1,Lily
+7,2,Sunflower
+7,3,Tulip
+7,4,Daisy
+7,5,Orchid
+7,6,Carnation
+7,7,Violet
+7,8,Poppy
+7,9,Hibiscus
+8,0,Black Bear
+8,1,Rabbit
+8,2,Horse
+8,3,Pig
+8,4,Kangaroo
+8,5,Giraffe
+8,6,Squirrel
+8,7,Monkey
+8,8,Deer
+8,9,Elephant
+9,0,Ladybug
+9,1,Housefly
+9,2,Butterfly
+9,3,Cricket
+9,4,Grasshopper
+9,5,Ant
+9,6,Bee
+9,7,Mosquito
+9,8,Cockroach
+9,9,Firefly
+10,0,American Alligator
+10,1,Box Turtle
+10,2,Crested Gecko
+10,3,Corn Snake
+10,4,Green Anole
+10,5,Iguana
+10,6,Ball Python
+10,7,Eastern Garter Snake
+10,8,Leopard Gecko
+10,9,Red-Eared Slider
+11,0,African Clawed Frog
+11,1,American Bullfrog
+11,2,Australian Green Tree Frog
+11,3,Cane Toad
+11,4,Goliath Frog
+11,5,Midwife Toad
+11,6,Poison Dart Frog
+11,7,Red-Eyed Tree Frog
+11,8,Salamander
+11,9,Tree Frog
+12,0,Mushroom
+12,1,Morel
+12,2,Button Mushroom
+12,3,Oyster Mushroom
+12,4,Chanterelle
+12,5,Puffball
+12,6,Baker's Yeast
+12,7,Penicillium Mold
+12,8,Aspergillus Mold
+12,9,Truffles
+13,0,Calcite
+13,1,Quartz
+13,2,Amethyst
+13,3,Gypsum
+13,4,Malachite
+13,5,Pyrite
+13,6,Rhodochrosite
+13,7,Azurite
+13,8,Chalcopyrite
+13,9,Hematite
+14,0,Granite
+14,1,Sandstone
+14,2,Limestone
+14,3,Basalt
+14,4,Shale
+14,5,Gneiss
+14,6,Marble
+14,7,Siltstone
+14,8,Conglomerate
+14,9,Schist
+15,0,Mountain Range Formation
+15,1,Tallest Mountain in the World (Everest)
+15,2,Mountainous Terrain
+15,3,Mountain Climbing Adventure
+15,4,Mountain Village Life
+15,5,Mountain Ecosystems
+15,6,Mount St. Helens Volcanic Eruption
+15,7,The Mountains of Tibet
+15,8,Mountain Biking Trails
+15,9,Mountain Hiking Expeditions
+16,0,Amazon River
+16,1,Mississippi River
+16,2,Nile River
+16,3,Yangtze River
+16,4,Ganges River
+16,5,Yellow River
+16,6,Rio Grande
+16,7,Congo River
+16,8,Euphrates River
+16,9,Danube River
+17,0,Ocean Currents
+17,1,Marine Ecosystems
+17,2,Deep-Sea Exploration
+17,3,Tidal Patterns
+17,4,Corals and Reef Systems
+17,5,Seafloor Mapping
+17,6,Ocean Pollution and Conservation
+17,7,Underwater Landscapes
+17,8,Fish Migration Patterns
+17,9,Wave Dynamics
+18,0,Lake Superior
+18,1,Lake Tanganyika
+18,2,Lake Baikal
+18,3,Lake Victoria
+18,4,Lake Michigan
+18,5,Lake Huron
+18,6,Lake Issyk-Kul
+18,7,Lake Geneva
+18,8,Lake Ontario
+18,9,Lake Mead
+19,0,Sahara Desert in Africa
+19,1,Atacama Desert in Chile and Peru
+19,2,Gobi Desert in Mongolia and China
+19,3,Mojave Desert in California
+19,4,Arabian Desert in Saudi Arabia and Yemen
+19,5,Kalahari Desert in Botswana and Namibia
+19,6,Sonoran Desert in Arizona
+19,7,Thar Desert in India and Pakistan
+19,8,Great Victoria Desert in Australia
+19,9,Patagonia Desert in Argentina and Chile
+21,0,Tokyo
+21,1,New York City
+21,2,London
+21,3,Paris
+21,4,Beijing
+21,5,Moscow
+21,6,Sydney
+21,7,Hong Kong
+21,8,Chicago
+21,9,Bangkok
+22,0,Canada
+22,1,China
+22,2,Brazil
+22,3,Japan
+22,4,South Africa
+22,5,Australia
+22,6,Germany
+22,7,Italy
+22,8,Mexico
+22,9,India
+23,0,Piano
+23,1,Guitar
+23,2,Violin
+23,3,Drums
+23,4,Bass Guitar
+23,5,Flute
+23,6,Harmonica
+23,7,Trumpet
+23,8,Xylophone
+23,9,Cello
+24,0,Happy Birthday To You
+24,1,Stairway to Heaven
+24,2,Imagine
+24,3,Bohemian Rhapsody
+24,4,We Are the Champions
+24,5,Hotel California
+24,6,Yesterday
+24,7,Smells Like Teen Spirit
+24,8,Hound Dog
+24,9,Jolene
+25,0,The Catcher in the Rye
+25,1,To Kill a Mockingbird
+25,2,1984
+25,3,Pride and Prejudice
+25,4,The Great Gatsby
+25,5,Jane Eyre
+25,6,Wuthering Heights
+25,7,Moby-Dick
+25,8,Alice in Wonderland
+25,9,The Adventures of Huckleberry Finn
+26,0,Landscape Painting
+26,1,Still Life Painting
+26,2,Portrait Painting
+26,3,Abstract Painting
+26,4,Cityscape Painting
+26,5,Seascape Painting
+26,6,Wildlife Painting
+26,7,Pop Art Painting
+26,8,Impressionist Painting
+26,9,Expressionist Painting
+27,0,Abstract Figure
+27,1,Greek Vase-Inspired Relief
+27,2,Modern Minimalist Form
+27,3,Realistic Portrait Head
+27,4,Animal-Shaped Totem Pole
+27,5,Geometric Mobile
+27,6,Abstract Expressionist Piece
+27,7,Classical Nude Female Figure
+27,8,Contemporary Environmental Mural
+27,9,Historic Architectural Decoration
+28,0,Wedding Photographs
+28,1,Landscapes Photographs
+28,2,Cityscape Photographs
+28,3,Portraits Photographs
+28,4,Sunsets Photographs
+28,5,Travel Photographs
+28,6,Food Photographs
+28,7,Wildlife Photographs
+28,8,Architecture Photographs
+28,9,Nighttime Photographs
+29,0,The Shawshank Redemption
+29,1,Inception
+29,2,The Dark Knight
+29,3,12 Angry Men
+29,4,Schindler's List
+29,5,The Lord of the Rings: The Return of the King
+29,6,Pulp Fiction
+29,7,The Silence of the Lambs
+29,8,Forrest Gump
+29,9,Star Wars: Episode IV - A New Hope
+30,0,Halloween Costume
+30,1,Superhero Cape and Mask
+30,2,Greek Goddess Attire (Toga)
+30,3,Victorian-Era Formal Wear
+30,4,Medieval Knight Armor
+30,5,Renaissance Faire Costume
+30,6,Ninjas or Pirates Outfit
+30,7,Zombie Apocalypse Gear
+30,8,Star Wars or Star Trek Uniform
+30,9,Western Cowgirl or Cowboy Regalia
+31,0,Cotton
+31,1,Silk
+31,2,Linen
+31,3,Rayon
+31,4,Denim
+31,5,Velvet
+31,6,Wool
+31,7,Microfiber
+31,8,Faux Fur
+31,9,Polyester
+32,0,Sweater
+32,1,T-shirt
+32,2,Jeans
+32,3,Dress
+32,4,Shoes
+32,5,Hoodie
+32,6,Pajamas
+32,7,Skirt
+32,8,Jacket
+32,9,Scarf
+33,0,Running Shoes
+33,1,High Heel Shoes
+33,2,Boots
+33,3,Sandals
+33,4,Sneakers
+33,5,Flip Flops
+33,6,Hiking Boots
+33,7,Dress Shoes
+33,8,Mules
+33,9,Slip Ons
+34,0,top hat
+34,1,baseball cap
+34,2,beanie
+34,3,cowboy hat
+34,4,kids' party hat
+34,5,pith helmet
+34,6,broad-brimmed sun hat
+34,7,newsboy cap
+34,8,fascinator
+34,9,turban
+35,0,Pearl Necklace
+35,1,Diamond Earrings
+35,2,Gold Ring
+35,3,Copper Bracelet
+35,4,Sapphire Brooch
+35,5,Tanzanite Pendant
+35,6,Onyx Studs
+35,7,Opal Drop Earrings
+35,8,Turquoise Cocktail Ring
+35,9,Morganite Necklace
+36,0,Digital Watch with Heart Rate Monitor
+36,1,Automatic Mechanical Watch
+36,2,Smartwatch with GPS
+36,3,Dress Watch with Diamond Encrustation
+36,4,Waterproof Watch for Scuba Diving
+36,5,Chronograph Watch with Alarm Function
+36,6,Elegant Leather Strap Watch
+36,7,Solar-Powered Eco-Friendly Watch
+36,8,Watch with Built-in Compass
+36,9,Fashionable Watch with interchangeable straps
+37,0,Convertible Cars
+37,1,Electric Vehicles
+37,2,Car Brands
+37,3,Vans for Sale
+37,4,Luxury Sedans
+37,5,Sports Cars
+37,6,Used Car Market
+37,7,Car Insurance Options
+37,8,Hybrid Cars
+37,9,Truck Features
+38,0,Cruiser motorcycles
+38,1,Sport bikes
+38,2,Touring motorcycles
+38,3,Chopper motorcycles
+38,4,Off-road motorcycles
+38,5,Streetfighters
+38,6,Adventure bikes
+38,7,Scooters
+38,8,Motocross bikes
+38,9,Café racers
+39,0,Mountain Bicycles
+39,1,Touring Bicycles
+39,2,Electric Bicycles
+39,3,Commuter Bicycles
+39,4,BMX Bicycles
+39,5,Cyclocross Bicycles
+39,6,Gravel Bicycles
+39,7,Road Bicycles
+39,8,Folding Bicycles
+39,9,Recumbent Bicycles
+40,0,Airplane Pilot
+40,1,Flight Attendant
+40,2,Air Traffic Controller
+40,3,Airplane Mechanic
+40,4,Aircraft Designer
+40,5,Airline CEO
+40,6,Passenger on a Commercial Flight
+40,7,Cargo Plane Loadmaster
+40,8,Aviation Engineer
+40,9,Flight Simulator Instructor
+41,0,High-speed trains
+41,1,Freight trains
+41,2,Subway trains
+41,3,Tourist trains
+41,4,Maglev trains
+41,5,Diesel trains
+41,6,Steam locomotives
+41,7,Monorail trains
+41,8,People movers
+41,9,Amtrak trains
+42,0,Cargo Ship
+42,1,Cruise Liner
+42,2,Frigate
+42,3,Tanker
+42,4,Battleship
+42,5,Sailing Vessel
+42,6,Submarine
+42,7,Tugboat
+42,8,Ferry
+42,9,Destroyer
+43,0,Apollo Command Module
+43,1,Space Shuttle Orbiter
+43,2,Voyager Spacecraft
+43,3,Curiosity Rover
+43,4,International Space Station
+43,5,Mars Reconnaissance Orbiter
+43,6,Pioneer 10 Spacecraft
+43,7,Galileo Spacecraft
+43,8,Cassini-Huygens Spacecraft
+43,9,New Horizons Spacecraft
+44,0,Smartphones
+44,1,Laptops
+44,2,Tablets
+44,3,Televisions
+44,4,Desktop Computers
+44,5,Gaming Consoles
+44,6,Printers
+44,7,Speakers
+44,8,Headphones
+44,9,Routers
+45,0,Laptop
+45,1,Desktop Computer
+45,2,Tablet
+45,3,Smartphone (as a computer)
+45,4,Mainframe
+45,5,Mini-Computer
+45,6,All-in-One PC
+45,7,Netbook
+45,8,Workstation
+45,9,Server
+46,0,Minecraft
+46,1,Fortnite
+46,2,The Last of Us
+46,3,Pac-Man
+46,4,World of Warcraft
+46,5,Call of Duty: Modern Warfare
+46,6,Overwatch
+46,7,Resident Evil 7: Biohazard
+46,8,Grand Theft Auto V
+46,9,The Elder Scrolls V: Skyrim
+47,0,Monopoly
+47,1,Scrabble
+47,2,Risk
+47,3,Ticket to Ride
+47,4,Clue
+47,5,Pictionary
+47,6,Chess
+47,7,Cranium
+47,8,Trivial Pursuit
+47,9,Backgammon
+48,0,baseball bat
+48,1,basketball
+48,2,javelin
+48,3,tennis racket
+48,4,soccer ball
+48,5,golf clubs
+48,6,lacrosse stick
+48,7,rowing oar
+48,8,cycling helmet
+48,9,wrestling mat
+49,0,Mardi Gras Festival 
+49,1,Tomatina Tomato Fighting Festival 
+49,2,Tomorrowland Music Festival 
+49,3,Rio Carnival Festival 
+49,4,Glastonbury Music Festival 
+49,5,Oktoberfest Beer Festival 
+49,6,Burning Man Art and Music Festival 
+49,7,Holi Color Festival 
+49,8,Coachella Music and Arts Festival 
+49,9,Up Helly Aa Viking Festival
+50,0,Lapis Lazuli
+50,1,Sikh Kirpan
+50,2,Hamsa Hand
+50,3,Kabah Stone
+50,4,Tibetan Prayer Wheel
+50,5,Ankh
+50,6,Torah Scroll
+50,7,Mezuzah
+50,8,Koran
+50,9,Pagan Rune Stones
+51,0,Thermometer
+51,1,Microscope
+51,2,Barometer
+51,3,Oxygen Analyzer
+51,4,pH Meter
+51,5,Stabilized Microwave Reactor
+51,6,Automated Pipette
+51,7,Spectrophotometer
+51,8,Centrifuge
+51,9,Digital Balance
+52,0,Carbon
+52,1,Oxygen
+52,2,Nitrogen
+52,3,Calcium
+52,4,Iron
+52,5,Potassium
+52,6,Sulfur
+52,7,Magnesium
+52,8,Silicon
+52,9,Copper
+53,0,Water 
+53,1,Carbon Dioxide 
+53,2,Ammonia 
+53,3,Sugar 
+53,4,Aspirin 
+53,5,Methane 
+53,6,Ethanol 
+53,7,Sulfuric Acid 
+53,8,Baking Soda 
+53,9,Coffee 
+54,0,Aspirin
+54,1,Ibuprofen
+54,2,Antihistamine (Benadryl)
+54,3,Azithromycin (Z-Pak)
+54,4,Metformin (Glucophage)
+54,5,Lisinopril (Zestril)
+54,6,Prednisone
+54,7,Levothyroxine (Synthroid)
+54,8,Simvastatin (Zocor)
+54,9,Omeprazole (Prilosec)
+55,0,Blood Pressure Monitor
+55,1,Stethoscope
+55,2,Thermometer
+55,3,Oxygen Saturation Meter
+55,4,EKG Machine
+55,5,Syringe
+55,6,Insulin Pump
+55,7,Pulse Oximeter
+55,8,Glucose Meter
+55,9,Defibrillator
+56,0,Pliers
+56,1,Wrench
+56,2,Hammer
+56,3,Screwdriver
+56,4,Tape measure
+56,5,Level
+56,6,Socket set
+56,7,Drill
+56,8,Circular saw
+56,9,Router
+57,0,Television
+57,1,Refrigerator
+57,2,Air Conditioner
+57,3,Washing Machine
+57,4,Dryer
+57,5,Microwave Oven
+57,6,Blender
+57,7,Toaster
+57,8,Stand Mixer
+57,9,Coffee Maker
+58,0,Dining Table
+58,1,Bed Frame
+58,2,Sofa
+58,3,Desk Chair
+58,4,Bookshelf
+58,5,Coffee Table
+58,6,Armchair
+58,7,TV Stand
+58,8,Wardrobe
+58,9,Dresser
+59,0,Skyscraper
+59,1,House
+59,2,School Building
+59,3,Factory
+59,4,Museum
+59,5,Theater
+59,6,Hotel
+59,7,Church
+59,8,Library
+59,9,Office Building
+60,0,Silo Architecture
+60,1,Microkernel Architecture
+60,2,Layered Architecture
+60,3,Client-Server Architecture
+60,4,Model-View-Controller (MVC) Architecture
+60,5,Event Driven Architecture (EDA)
+60,6,Service Oriented Architecture (SOA)
+60,7,Master-Slave Architecture
+60,8,Publish-Subscribe Architecture
+60,9,Blackboard Architecture
+61,0,Eiffel Tower
+61,1,Statue of Liberty
+61,2,Great Wall of China
+61,3,Taj Mahal
+61,4,Christ the Redeemer
+61,5,Colosseum
+61,6,Sydney Opera House
+61,7,Burj Khalifa
+61,8,Acropolis of Athens
+61,9,Golden Gate Bridge
+62,0,Egyptian Mummy Wrappings
+62,1,Roman Coins
+62,2,Viking Swords
+62,3,Greek Vases
+62,4,Mayan Pottery
+62,5,Chinese Silk Road Scrolls
+62,6,Medieval Illuminated Manuscripts
+62,7,African Rock Art
+62,8,Inca Quipu Accounting Records
+62,9,Japanese Samurai Armor
+63,0,Apple
+63,1,Pizza
+63,2,Chocolate
+63,3,Waffles
+63,4,Tacos
+63,5,Rice
+63,6,Bread
+63,7,Eggs
+63,8,Cereal
+63,9,Donuts
+64,0,Water
+64,1,Soda
+64,2,Juice
+64,3,Tea
+64,4,Coffee
+64,5,Beer
+64,6,Wine
+64,7,Milk
+64,8,Hot Chocolate
+64,9,Iced Tea
+65,0,Cinnamon
+65,1,Nutmeg
+65,2,Ginger
+65,3,Cardamom
+65,4,Turmeric
+65,5,Paprika
+65,6,Mustard
+65,7,Coriander
+65,8,Cayenne Pepper
+65,9,Oregano
+66,0,Chef's Knife
+66,1,Wooden Spoons
+66,2,Electric Mixer
+66,3,Spatula
+66,4,Cutting Board
+66,5,Measuring Cups
+66,6,Whisk
+66,7,Food Processor
+66,8,Can Opener
+66,9,Grater
+67,0,Chicken Fettuccine Alfredo
+67,1,Beef and Broccoli Stir-Fry
+67,2,Veggie Quesadillas
+67,3,Baked Ziti with Meat Sauce
+67,4,Grilled Cheese Sandwiches with Tomato Soup
+67,5,Spaghetti Bolognese
+67,6,Chicken Tacos with Avocado Salsa
+67,7,Roasted Vegetable Soup
+67,8,Meatball Subs
+67,9,Creamy Chicken and Mushroom Pasta
+68,0,Italian Restaurant
+68,1,Fast Food Chain
+68,2,Seafood Restaurant
+68,3,Mexican Cantina
+68,4,Vegan Cafe
+68,5,Steakhouse
+68,6,Pizzeria
+68,7,Coffee Shop
+68,8,Asian Fusion
+68,9,Tapas Bar
+69,0,Private Elementary School
+69,1,Public High School
+69,2,Charter Middle School
+69,3,Boarding School
+69,4,Virtual Academy
+69,5,Language Immersion School
+69,6,Special Education Center
+69,7,Arts and Design Academy
+69,8,Environmental Science Institute
+69,9,International Baccalaureate Program
+70,0,University of Oxford
+70,1,Harvard University
+70,2,Stanford University
+70,3,Massachusetts Institute of Technology (MIT)
+70,4,California Institute of Technology (Caltech)
+70,5,Carnegie Mellon University
+70,6,Georgia Institute of Technology
+70,7,University of California Berkeley
+70,8,Princeton University
+70,9,University of Chicago
+71,0,Liquid Cooling Garment
+71,1,Helmet
+71,2,Oxygen Supply System
+71,3,Thermal Protection
+71,4,Communication System
+71,5,Life Support System
+71,6,Sensors and Gauges
+71,7,Mobility and Mobility Assistance Systems
+71,8,Emergency Power System
+71,9,Rebreather
+72,0,Quartz
+72,1,Amethyst
+72,2,Pyrite
+72,3,Topaz
+72,4,Malachite
+72,5,Opal
+72,6,Moonstone
+72,7,Rhodochrosite
+72,8,Lapis Lazuli
+72,9,Sunstone
+73,0,Barbie Dolls
+73,1,Blythe Dolls
+73,2,American Girl Dolls
+73,3,Fashion Royalty Dolls
+73,4,Monster High Dolls
+73,5,Bratz Dolls
+73,6,L.O.L. Surprise! Dolls
+73,7,FurReal Friends Dolls
+73,8,Dolls of the World Collection
+73,9,Hatchimals Colleggtibles
+74,0,Barbie Doll
+74,1,PlayStation Controller
+74,2,Lego Set
+74,3,Polly Pocket Figures
+74,4,Furby Toy
+74,5,G.I. Joe Action Figure
+74,6,My Little Pony Toy
+74,7,Hot Wheels Car
+74,8,Nerf Gun
+74,9,Monopoly Board Game
+75,0,Statue of Liberty
+75,1,David (Michelangelo's sculpture)
+75,2,Taj Mahal Complex Statues
+75,3,Greek Gods Statue
+75,4,Fountain of Youth statue
+75,5,The Thinker (Auguste Rodin's sculpture)
+75,6,Egyptian Sphinx
+75,7,Statue of Christ the Redeemer
+75,8,Winged Victory (Phidias' sculpture)
+75,9,The Venus de Milo
+76,0,San Francisco-Oakland Bay Bridge
+76,1,Golden Gate Bridge
+76,2,Talmadge Memorial Bridge
+76,3,Acosta Bridge 
+76,4,Chesapeake Bay Bridge-Tunnel
+76,5,Henry Petty-Fane Memorial Bridge
+76,6,Mackinac Bridge
+76,7,Brooklyn Bridge
+76,8,Humber Bridge
+76,9,Seven Mile Bridge
+77,0,Freeway
+77,1,Interstate Highway
+77,2,Primary Road Network
+77,3,Rural Highway
+77,4,Expressway
+77,5,Urban Highway
+77,6,National Highway System
+77,7,Limited Access Road
+77,8,Arterial Highway
+77,9,Controlled-Access Highway
+78,0,Hawaii
+78,1,Sardinia
+78,2,Bermuda
+78,3,Ibiza
+78,4,Sicily
+78,5,Malta
+78,6,Crete
+78,7,Tenerife
+78,8,Corsica
+78,9,Grenada
+80,0,Carlsbad Caverns New Mexico
+80,1,Mammoth Cave National Park Kentucky
+80,2,Waitomo Glowworm Caves New Zealand
+80,3,Cheddar Gorge Caves England
+80,4,Yucatan Caves Mexico
+80,5,Hang Son Doong Cave Vietnam
+80,6,Lechuguilla Cave New Mexico
+80,7,Sistema Sac Actun Mexico
+80,8,Riescraddock Cave Austria
+80,9,Taman Shud Cave Australia
+81,0,Bicycle Helmet
+81,1,Baseball Cap with Earflaps
+81,2,Football Helmet
+81,3,Motocross Helmet
+81,4,Hockey Helmet
+81,5,Skateboarding Helmet
+81,6,Lacrosse Helmet
+81,7,Racing Helmet
+81,8,Military Helmet
+81,9,Cycling Helmet
+82,0,Motorcycle Gloves
+82,1,Golf Gloves
+82,2,Hiking Gloves
+82,3,Cycling Gloves
+82,4,Fishing Gloves
+82,5,Football Gloves
+82,6,Boxing Gloves
+82,7,Wrestling Gloves
+82,8,Skating Gloves
+82,9,Workman's Gloves
+83,0,Prescription Glasses
+83,1,Reading Glasses
+83,2,Computer Glasses
+83,3,Blue Light Blocking Glasses
+83,4,Transition Lenses
+83,5,Glasses with Frame and Lenses
+83,6,Clip-On Glasses
+83,7,Sport Sunglasses
+83,8,Children's Glasses
+83,9,Polarized Driving Glasses
+84,0,Mirror on a bedroom wall
+84,1,Two-way mirror in a detective's office
+84,2,Old-fashioned dressing table mirror
+84,3,Foggy car mirror for improved visibility
+84,4,Magic show mirror that appears and disappears
+84,5,Tilt-down rearview mirror on a truck
+84,6,Distorted mirror in a funhouse attraction
+84,7,Adjustable desk mirror for makeup application
+84,8,Wall-to-wall mirrors creating an illusion of space
+84,9,Vintage-style ornate floor-length mirror
+85,0,Hobby Telescope for Amateur Astronomers
+85,1,NASA's Hubble Space Telescope
+85,2,Radio Telescopes used in Astronomy Research
+85,3,Solar Telescope for Studying Sunspots
+85,4,Reflecting Telescopes used in Professional Observatories
+85,5,Telescope Mounts and Tracking Systems
+85,6,Celestial Navigation using Telescopes
+85,7,Telescopic Binoculars for Wildlife Viewing
+85,8,Laser Guide Star Telescopes for Adaptive Optics
+85,9,Space-based Telescopes like the Kepler Space Telescope
+86,0,Compound Light Microscope
+86,1,Transmission Electron Microscope (TEM)
+86,2,Scanning Electron Microscope (SEM)
+86,3,Stereo Microscope
+86,4,Confocal Microscope
+86,5,Phase Contrast Microscope
+86,6,Dark Field Microscope
+86,7,Inverted Microscope
+86,8,Ultraviolet (UV) Microscope
+86,9,Fluorescence Microscope
+87,0,Singer Confidence 7460 Mechanical Sewing Machine
+87,1,Brother CS600i Computerized Sewing Machine
+87,2,Janome Magnolia 7318 Mechanical Sewing Machine
+87,3,Bernina 330 sewing machine
+87,4,Pfaff Hobby 100 mechanical sewing machine
+87,5,Eversewn Hero 3016 Computerized Sewing Machine
+87,6,Juki HZL-F600 Computerized Sewing Machine
+87,7,Husqvarna Viking Emerald 118 Computerized Sewing Machine
+87,8,Miele S7000 Automatic Sewing machine
+87,9,Toyota Soyo 300 mechanical sewing machine
+88,0,Grand Piano
+88,1,Upright Piano
+88,2,Console Piano
+88,3,Digital Piano
+88,4,Studio Piano
+88,5,Baby Grand Piano
+88,6,Player Piano
+88,7,MIDI Controller
+88,8,Hybrid Piano
+88,9,Sustain Pedal
+89,0,Drum Kit for Rock Music
+89,1,Electronic Drum Pads for DJing
+89,2,Handheld Drums for Children's Parties
+89,3,Bongo Drums for Latin Music
+89,4,Snare Drum for Marching Band
+89,5,Tabla Drums for Indian Classical Music
+89,6,Conga Drums for Salsa Music
+89,7,Field Drums for Outdoor Events
+89,8,Timbales Drums for Afro-Cuban Music
+89,9,Bass Drum for Jazz Music
+90,0,Tea Light Candles
+90,1,Scented Candles
+90,2,Votive Candles
+90,3,Taper Candles
+90,4,Jarred Candles
+90,5, pillar candles
+90,6,Massage Candles
+90,7,Candle Wicks
+90,8,Colorful Candles
+90,9,Gel Candles
+91,0,Electric Blanket
+91,1,Security Blanket for Children
+91,2,Weighted Blanket for Anxiety Relief
+91,3,Quilted Throw Blanket
+91,4,Handmade Afghan Blanket
+91,5,Fleece-Lined Parka Blanket
+91,6,Heated Massage Blanket
+91,7,Custom-Printed Beach Blanket
+91,8,Minky Fabric Baby Blanket
+91,9,Woolen Sherpa Blanket
+92,0,Frying Pan
+92,1,Wok
+92,2,Saucepan
+92,3,Dutch Oven
+92,4,Skillet
+92,5,Teapot
+92,6,Coffee Pot
+92,7,Pressure Cooker
+92,8,Stockpot
+92,9,Tortilla Press
+93,0,Frying Pan
+93,1,Chef's Knife
+93,2,Butter Knife
+93,3,Serrated Utility Knife
+93,4,Paring Knife
+93,5,Steak Knife
+93,6,Cutlery Set
+93,7,Meat Cleaver
+93,8,Dinner Fork
+93,9,Utility Scissors
+94,0,Picnic Basket
+94,1,Basketball Hoop
+94,2,Lunch Basket
+94,3,Wicker Picnic Basket
+94,4,Hampers and Gift Baskets
+94,5,Fruit Basket
+94,6,Weaving Basket
+94,7,Shopping Basket
+94,8,Cigar Box and Humidor Basket
+94,9,Storage Basket
+95,0,Glass Blown Vase with Floral Pattern
+95,1,Chinese Ceramic Vase with Dragon Design
+95,2,Tall Clear Glass Vase with Simple Lines
+95,3,Hand-Painted Porcelain Vase with Birds
+95,4,Vintage Metal Vase with Art Deco Patterns
+95,5,Crystal Vase with Cut Glass Facets
+95,6,Miniature Ceramic Vase with Whimsical Animals
+95,7,Industrial-Style Metal Vase with Exposed Pipe
+95,8,Handmade Clay Vase with Geometric Patterns
+95,9,Vintage Glass Vase with Etched Floral Design
+96,0,Student Notebook
+96,1,Garden Planner Notebook
+96,2,Travel Journal Notebook
+96,3,Meditation and Reflection Notebook
+96,4,Daily Gratitude Notebook
+96,5,Sketchbook and Art Notebook
+96,6,Meal Planning and Grocery List Notebook
+96,7,Meeting Notes and Action Items Notebook
+96,8,Dream Journal Notebook
+96,9,Budgeting and Expense Tracker Notebook
+97,0,Fountain Pen
+97,1,Rollerball Pen
+97,2,Gel Pen
+97,3,Ballpoint Pen
+97,4,Pencil 
+97,5,Calligraphy Pen
+97,6,Marker Pen
+97,7,Felt Tip Pen
+97,8,Stylus Pen
+97,9,Space Pen
+98,0,Flat Brush
+98,1,Round Brush
+98,2,Angled Brush
+98,3,Fan Brush
+98,4,Linseed Brush
+98,5,Rigger's Brush
+98,6,Mop Brush
+98,7,Drybrush
+98,8,Pom-Pom Brush
+98,9,Sable Brush
+99,0,Chiseling Hammer
+99,1,Gouge
+99,2,Modeling Tool
+99,3,Carving Knife
+99,4,Wax Loop
+99,5,Loop Chisel
+99,6,Flat Chisel
+99,7,Rasp
+99,8,Fettling Tool
