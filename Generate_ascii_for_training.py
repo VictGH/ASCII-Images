@@ -6,16 +6,18 @@ import torch
 from PIL import Image
 import time
 import gzip
+import os
+print(os.getcwd())
 
-df = pd.read_csv('descriptions.csv',sep  = ';',index_col = False)
+df = pd.read_csv('ASCII-Images\descriptions.csv',sep  = ';',index_col = False)
 print('a')
 pipe = AutoPipelineForText2Image.from_pretrained("stabilityai/sdxl-turbo")
 pipe.to("cuda")
 
 batch_data = []
-filename = 'ascii_art.gz'
+filename = 'ASCII-Images/ascii_art2.gz'
 
-def image_to_ascii_optimized(image, width=100, height=45, gradient=" .-+#@"):
+def image_to_ascii_optimized(image, width=100, height=45, gradient="@#+-. "):
     # Resize the image to the target dimensions
     image = image.resize((width, height))
     
@@ -80,12 +82,12 @@ def flush_remaining_data():
     if batch_data:
         write_batch_to_file()
 
-#for i in range(50,1000): 
-#    generate_n_images(df,i,100, 500)
+#for i in range(1,5): 
+#    generate_n_images(df,i,100, 100)
 
 import gzip
 
-def read_and_print_ascii_art(filename='ascii_art.gz'):
+def read_and_print_ascii_art(filename='ASCII-Images/ascii_art2.gz'):
     try:
         with gzip.open(filename, 'rt') as file:  # Open in read and text mode
             content = file.read()
